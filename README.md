@@ -1,5 +1,5 @@
 # Moniez
-The App for tracking your moniez
+The App for tracking your moniez. Written in Python using the Django framework.
 
 # Authors:
 
